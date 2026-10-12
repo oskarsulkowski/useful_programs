@@ -1,37 +1,35 @@
-# Rozwiązanie: Markdown — README
+# Markdown
 
-## Krótka podsekcja 1
-To jest krótki tekst w pierwszej podsekcji. Zawiera przykładowe wzory inline: $a^2 + b^2 = c^2$, $e^{i\pi} + 1 = 0$ oraz $\int_0^1 x\,dx = \tfrac{1}{2}$.
+## pierwsza podsekcja i krótki tekst
 
-## Krótka podsekcja 2
-To jest drugi krótki tekst w innej podsekcji. Poniżej znajduje się obrazek, fragmenty tekstu w różnych stylach i listy.
+## druga podsekcja i krótki tekst
 
-**To jest pogrubiony fragment tekstu.**
+**pogrubiony fragment**
 
-*To jest fragment pochylony (italic).* 
+*fragment pochylony* 
 
-~~To jest fragment przekreślony.~~
+~~fragment przekreślony~~
 
-### Lista punktowana
+### Lista punktowana:
 - punkt pierwszy
 - punkt drugi
 - punkt trzeci
 
-### Lista numerowana
+### Lista numerowana:
 1. pierwszy
 2. drugi
 3. trzeci
 
-### Checklist (zadania)
-- [x] zrobione
-- [ ] do zrobienia
-- [ ] opcjonalne
+### Checklista:
+- [x] pierwszy punkt
+- [ ] drugi punkt
+- [ ] trzeci punkt
 
 ### Tabelka
 | Kolumna A | Kolumna B | Kolumna C |
 |-----------|-----------|-----------|
 | Wartość 1 | Wartość 2 | Wartość 3 |
-| 42        | 3.14      | tekst     |
+| x         | y         | z         |
 
 ### Link do Google Colab
 [Otwórz w Google Colab](http://colab.research.google.com)
