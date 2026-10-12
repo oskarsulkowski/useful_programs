@@ -46,7 +46,14 @@ plt.title("Przykładowy wykres");
 plt.savefig("wykres.png")
 ```
 
-### Wzory matematyczne — display math
+### Trzy wzory matematyczne w tekście 
+$x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}$.
+
+$\mathcal{F}\{f\}(\omega) = \int_{-\infty}^{\infty} f(t)\,e^{-i\omega t}\,dt$.
+
+$\sum_{n=0}^{\infty} \frac{x^n}{n
+
+### Wzory matematyczne jako wycentrowany blok
 Poniżej trzy wzory jako oddzielne bloki wycentrowane:
 
 $$
