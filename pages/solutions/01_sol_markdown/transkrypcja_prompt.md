@@ -12,34 +12,33 @@ Przeczytaj ręczne notatki widoczne na zrzucie ekranu i przepisz je do czytelneg
 
 ### 11. Co to są kropki kwantowe i jakie mają właściwości?
 
-- Ogólna idea / struktura:
+  - OD struktura
   - Ruch elektronów ograniczony w trzech wymiarach.
-  - Najprostszy model: "quantum box" — kropka kwantowa w kształcie sześcianu z nieprzenikalnymi ścianami (na zewnątrz potencjał nieskończony).
+  - Najprostszy model - quantum box - kropka kwantowa w kształcie sześcianu na zewnątrz potencjał nieskończony.
 
-- Równanie Schrödingera (stacjonarne dla potencjału pudełkowego):
+- Równanie Schrödingera:
 
-  -\frac{\hbar^2}{2m} \left(\frac{\partial^2}{\partial x^2}+\frac{\partial^2}{\partial y^2}+\frac{\partial^2}{\partial z^2}\right) \psi(x,y,z) = E\,\psi(x,y,z)
+$$
+-\frac{\hbar^2}{2m}\left(\frac{\partial^2}{\partial x^2}
++\frac{\partial^2}{\partial y^2}
++\frac{\partial^2}{\partial z^2}\right)\psi(x,y,z)=E\,\psi(x,y,z)
+$$
 
-- Energia stanów (dla pudełka o bokach L_x, L_y, L_z):
+- Energia:
 
-  E = \frac{\hbar^2 \pi^2}{2m} \left(\frac{n_x^2}{L_x^2} + \frac{n_y^2}{L_y^2} + \frac{n_z^2}{L_z^2}\right)
+$$
+E=\frac{\hbar^2\pi^2}{2m}\left(\frac{n_x^2}{L_x^2}
++\frac{n_y^2}{L_y^2}
++\frac{n_z^2}{L_z^2}\right),
+$$
 
-  gdzie n_x, n_y, n_z = 1,2,3,... są liczbami kwantowymi odpowiadającymi kolejnym modom.
+- Stany energetyczne są zdegenerowane
 
-- Stany energetyczne są zdegenerowane — różne kombinacje liczb kwantowych mogą dawać taką samą energię.
+- Sferyczna kropka kwantowa => rozłożenie funkcji falowej ψ na część radialną i kątową (podobieństwo do zagadnienia atomu wodoru w mechanice kwantowej)
 
-- Dla kropki kwantowej o symetrii sferycznej:
-  - Funkcję falową \(\Psi\) można rozdzielić na część radialną i kątową (analogicznie do problemu atomu wodoru w mechanice kwantowej).
-  - Rozwiązania radialne przy takim układzie mają charakter funkcji Bessela (np. sferyczne funkcje Bessela / funkcje typu \(j_{l+1/2}\)).
-
+- Rozwiązania radialne funkcje Bessela typu J<sub>l+1/2</sub>.
 ---
-
-### 12. (Nagłówek w notatkach)
-
 PORÓWNAĆ WŁAŚCIWOŚCI HETEROSTRUKTUR, DRUTÓW I KROPEK KWANTOWYCH.
-
-(Uwaga: to jest kolejny punkt na notatce — polecenie do wykonania porównania.)
-
 ---
 
 ### Uwagi redakcyjne
