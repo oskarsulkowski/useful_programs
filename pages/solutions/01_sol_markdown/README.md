@@ -51,7 +51,7 @@ $x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}$.
 
 $\mathcal{F}\{f\}(\omega) = \int_{-\infty}^{\infty} f(t)\,e^{-i\omega t}\,dt$.
 
-$\sum_{n=0}^{\infty} \frac{x^n}{n
+$\sum_{n=0}^{\infty} \frac{x^n}{n$
 
 ### Wzory matematyczne jako wycentrowany blok
 Poniżej trzy wzory jako oddzielne bloki wycentrowane:
