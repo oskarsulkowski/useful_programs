@@ -2,7 +2,11 @@
 
 ## pierwsza podsekcja i krótki tekst
 
+krótki tekst z 1 podsekcji
+
 ## druga podsekcja i krótki tekst
+
+krótki tekst z 2 podsekcji
 
 **pogrubiony fragment**
 
