@@ -2,7 +2,7 @@
 
 1. Naruto Uzumaki
 2. Monkey D. Luffy
-3. Goku
+3. Son Goku
 4. Sailor Moon
 5. Edward Elric
 6. Light Yagami
